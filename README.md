@@ -34,7 +34,7 @@ With pipenv:
 
 ```py -m pipenv run python .\exercises\pyspark\02_data_aggregation\data_aggregation.py```
 
-```py -m pipenv run python C:\Users\lokhu\Downloads\data-test-python\exercises\pyspark\03_data_join\data_join.py```
+```py -m pipenv run python .\exercises\pyspark\03_data_join\data_join.py```
 
 TODO:
 - abstract out mock data to conf test - needs to be set as pyfixture
